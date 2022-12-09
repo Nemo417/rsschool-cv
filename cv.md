@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am 18 years old. I am learning computer science at the univercity.I am very new in this. Considering that this field is very broad, I think that the university is not enough. I try to take extra courses. That's why I decided to take this course on a friend's advice.
+I am 18 years old. I am learning computer science at the univercity.I am very new at this. Considering that this field is very broad, I think that the university is not enough. I try to take extra courses. That's why I decided to take this course on a friend's advice.
 
 ### My Strenghts:
  - Hard work
